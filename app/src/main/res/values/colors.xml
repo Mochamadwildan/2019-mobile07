@@ -5,6 +5,8 @@
     <color name="colorAccent">#FF4081</color>
     <color name="white">#FFFFFF</color>
     <color name="logobg">#F6AF28</color>
+    <color name="black">#050505</color>
+
 
     <!-- Screens background color-->
     <color name="bg_screen1">#f64c73</color>
